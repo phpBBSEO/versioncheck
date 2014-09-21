@@ -1,0 +1,11 @@
+{
+	"unstable": {
+		"2.0": {
+			"current": "2.0.0-b2",
+			"download": "https://github.com/phpbbseo/nodupe/releases/tag/2.0.0-b2",
+			"announcement": "",
+			"eol": null,
+			"security": false
+		}
+	}
+}
